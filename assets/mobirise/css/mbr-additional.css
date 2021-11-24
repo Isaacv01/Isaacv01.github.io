@@ -1173,6 +1173,22 @@ a {
 .cid-sNrx3VesMp .item-subtitle {
   text-align: left;
 }
+.cid-sPGUKQeAUJ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr.jpg");
+}
+.cid-sPGUKQeAUJ .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sPGUKQeAUJ .mbr-section-title,
+.cid-sPGUKQeAUJ .mbr-section-subtitle,
+.cid-sPGUKQeAUJ .mbr-text {
+  text-align: center;
+}
+.cid-sPGUKQeAUJ .mbr-section-title {
+  color: #2299aa;
+}
 .cid-sNrJplclnp {
   padding-top: 5rem;
   padding-bottom: 5rem;
